@@ -1,0 +1,6 @@
+ako=int(input("Adja meg az AKÓ értékét: "))
+print(f"\n{ako} akó = ")
+print(f"  {ako * 32} pint")
+print(f"  {ako * 64} icce")
+print(f"  {ako * 128} ")
+print(f"  {ako * 54.2976} pint")

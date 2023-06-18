@@ -1,0 +1,94 @@
+Bekerules	Leiras	Ar	Kerulet	Iroda	Jelleg	Alapterulet
+2007.03.31	Kígyó u. / 18 m2 automata kapukkal felszerelt garázs	1600000	3	1	garázs	18
+2007.03.08	Józsa, Rákóczi kert 1067. / 35 m2 1 sz. Cserépkályha fûtés, átlagos, hidroforos ház 753 nö telekkel	5900000	4	4	ház	35
+2007.03.25	Baross u. / 44 m2 1,5 szobás téglaépítésû gázkonvektoros, pincerekeszes, zárt udvarra autóbeállási lehetõség	7700000	2	2	ház	44
+2007.03.16	Simonffy u. / utcafronti házrész 44 m2 2 szobás gázfûtéses  jóállapotú alápincézett, garázsépítési lehetõséggel eladó	9200000	3	1	ház	44
+2007.04.01	Káka u. /  45 m2, 1 szoba, nagykonyha, elõszoba, fürdõszoba, spájz, tégla-gázkonvektor, garázsos ház 250 m2 telken eladó	12800000	3	0	ház	45
+2007.04.16	Hadházi u. / 55 m2-es 2 szobás konvektoros lakás, erkéllyel, akár bútorozva  eladó	9600000	2	1	ház	55
+2007.05.13	Serház u. / 60 m2, 2 + 1 szoba, gázkonvektor, felújítandó, erkély	11900000	2	4	ház	60
+2007.05.03	Balaton u. / 60 m2 2 szoba. Étkezõkonyhás, konvektoros, 2006-ban felújítva, 551 m2 telekkel, saroktelek, bõvíthetõ	18700000	2	3	ház	60
+2007.04.15	Kökörcsin u. / 75 m2 2 + 1 szobás gázfûtéses felújítandó ház 213 négyszögöl telken garázzsal, mellék épülettel	14600000	2	2	ház	75
+2007.05.14	Elõkert u. / 80 m2 2 szoba + étkezõ elõtér+konyha 800 m2 telken, gáz + vegyestüzelésû, összközmûves, ház eladó  	14400000	2	3	ház	80
+2007.03.30	Pilinszky u. / 80 m2, 2 + 2 szoba, panel-gáz szép, 170 m2 telek, garázs, terasz, mûanyag nyílászáró	24400000	2	4	ház	80
+2007.02.19	Cser u. / 90 m2 + 60 m2 melléképület benne garázs, 3 sz. + nappali, központi gáz, régi építésû, felújított 1000 m2 telekkel	27600000	1	4	ház	90
+2007.02.21	Perem u. / 90 m2 3 szoba + étkezõkonyhás ház gáz etázs fûtésû 1993-ban épült 1108 m2-es telken ipari árammal pincével, garázzsal eladó	25800000	3	3	ház	90
+2007.03.25	Balaton u. / 94 m2 1 + 3fél szoba étkezõkonyhás, vegyes tüzelésû kazán 2000-ben épült 551 m2 telek, tetõtér beépíthetõ (65 m2)	29300000	1	0	ház	94
+2007.04.10	Határ u. / 100 m2 3 sz. + nappali, központi gáz, radiátor, 382 nö telek, garázs, pince, tároló, kis halastó	25500000	2	1	ház	100
+2007.03.01	Géza u. / 100 m2-es 2 szoba + elõtér + mûködõ presszó konvektoros + cserépkályha régi építésû, 320 nö telek, nincs csatorna	23300000	2	0	ház	100
+2007.04.12	Huszár Gál u. / 105 m2 3 szoba + nappali, étkezõ konyha, gázkazán, kandalló, 150 nö telek, 20 m2 terasz, 17 m2 garázs, mûanyag ablakok	33500000	1	2	ház	105
+2007.03.08	Vass Gereben u. / 110 m2 3 szobás gázfûtéses jó állapotú 300 négyszögöl telken garázzsal, zárt udvarral, szalonnasütövel	23200000	2	1	ház	110
+2007.05.15	Köszméte u. / 120 m2 + terasz + 50 m2 dupla garázs 3 szoba + nappali, központi gáz padló+radiátor 500 m2 telek.	29500000	3	1	ház	120
+2007.03.23	Zsigmond Ferenc u. / 120 m2-es 3 szoba + nappali, gázközponti fûtés, 644 m2 telekkel, dupla garázs + szerszám tároló, fúrott kút	29800000	1	1	ház	120
+2007.03.03	Józsa Sillye G. u. / 120 m2-es, 3 szoba, étkezõ, gázfûtéses + vegyes tüzelésû, 1116 m2 telek összközmûves, 15 éves ház 120 m2 pince, 2 garázs	30100000	3	2	ház	120
+2007.04.03	Telek u. / 124 m2 + tetõtér (70 m2) 4 + 2 szoba, gázközponti fûtés + vegyes tüzelésû, felújítva 2005-ben, 1079 m2 telekkel, csatornázás folyamatban pince+2 garázs	39900000	2	2	ház	124
+2007.03.16	Halasi u. / 140 m2 60%-os készültségû 500 m2 telekkel 3 sz. + nappali + ebédlõ, terasz, garázs	20300000	3	3	ház	140
+2007.05.02	Józsa, Csonkatorony u. / 145 m2-es 5 szobás étkezõs gázfûtéses könnyûszerkezetes ház eladó	25200000	4	0	ház	145
+2007.04.29	Kerecsen u. / 150 m2, 2 + 2 szoba, tégla-gáz, átlagos, 430 m2 telek, 31 m2 garázs, 70 m2 melléképület	29500000	3	1	ház	150
+2007.03.08	Szondi u. / 160 m2-es 100 m2 pince + 40 m2 garázs, 3,5 szobás, nappali+étkezõs 2 fürdõszobás gázfûtéses szép ház 560 m2-es telken parkosított udvarban, kocsibeállással	38500000	2	4	ház	160
+2007.03.22	Ököritó u. / 170 m2, 4 szoba + nappali, étkezõkonyha, 2 fürdõszoba, garázs, terasz, parkosított 1000 m2 telekkel eladó	35400000	1	3	ház	170
+2007.03.19	Földi J. u. / 174 m2 2 szoba + terasz + presszó, gáz-központi + cserépkályha, felújítandó, 1265 m2 telekkel, ipari árammal, 30 m2 pince	68600000	2	1	ház	174
+2007.03.24	Alsójózsai u. / 180 m2-es, 4 szobás étkezõs teraszos garázsos (60 m2) felújított, mûanyag nyílászárós ház 120 négyszögöl telekkel 	34300000	4	0	ház	180
+2007.02.15	Elek u. / 180 m2-es és 180 m2 pince 3,5 szobás + nappalis gázfûtéses szerkezetkész ház 500 négyszögöl telken dupla garázzsal.	34600000	2	2	ház	180
+2007.02.11	Verseny u. / 360 m2-es telek 720 m2 újépítésû üres azonnal beköltözhetõ 5 szobás, nappalis étkezõkonyhás 5 fürdõszobás, alsó szinten medence, szauna, biliárd szoba, 2 terasz, 2 erkély , dupla garázs 	119700000	2	0	ház	720
+2007.04.23	Török u. / 90 m2, 1 + 3 szoba, garázs, szép, 130 m2 telek, sorházi ház	22200000	1	0	ház	90
+2007.03.02	Angyalföld tér / 29 m2, 1 szoba, átlagos, üres lakás	6000000	1	0	lakás	29
+2007.03.14	Angyalföld tér / 31 m2 1 szobás, távfûtés, erkély, átlagos	5900000	3	3	lakás	31
+2007.05.08	Angyalföld tér / 31 m2-es garzon felújított távfûtéses lakás eladó	8300000	2	0	lakás	31
+2007.05.01	Csengõ u. / 33 m2 1 szoba, gáz, szépen felújított, erkélyes 	7300000	1	3	lakás	33
+2007.05.09	Sínai u. / 35 m2, 1,5 szoba, átlagos, gáztûzhelyes lakás	7000000	3	3	lakás	35
+2007.04.11	Gyergyó u. / 35 m2 1,5 sz. Távfûtés, átlagos áll. PVC + 1 szoba, padlószõnyeg	7800000	2	3	lakás	35
+2007.04.10	Domokos utca / 2. emeleti, 35 m2, 1,5 szoba, szép lakás eladó	8200000	3	0	lakás	35
+2007.02.16	Darabos u. / 35 m2-es 1,5 szobás távfûtéses lakás zárt folyosón eladó	7500000	3	1	lakás	35
+2007.04.28	Dobozi u. / 39 m2 1 szoba felújított parkra nézõ lakás 	8700000	3	2	lakás	39
+2007.02.13	Egyetem sgt. / fszt. 42 m2 1 szoba konvektoros, felújított, pincerekeszes lakás eladó	9600000	1	4	lakás	42
+2007.04.07	Sámsoni u. / 43 m2-es, 1,5 szobás, tégla-gázos, pincerekeszes szép lakás eladó	7100000	2	0	lakás	43
+2007.05.07	Gyöngyösi u. / 43 m2-es, 1 szoba, amerikai konyha, tégla-gáz fûtés, felújított, franciaerkély, klíma	9500000	2	0	lakás	43
+2007.03.22	Bethlen u. / 46 m2-es 2 szoba + nappalis mért távfûtésû, loggiás lakás eladó	8500000	3	0	lakás	46
+2007.03.05	Csapó út / 56/49 m2, 1,5 szoba, étkezõkonyhás lakás, tégla-gázfûtéses	11800000	3	1	lakás	49
+2007.02.11	Barna u. /  50 m2, 2 szoba, erkély, felújított	10800000	1	3	lakás	50
+2007.03.31	Görgey u. / 51 m2 2 szobás, távfûtéses,  erkélyes, pincerekeszes	7100000	1	0	lakás	51
+2007.03.24	Barna u. / 51 m2 1,5sz+étkezõ, konvektoros, felújított lakás, klíma, pincerekesz	9700000	1	3	lakás	51
+2007.03.03	Jerikó u. / 51 m2, 2 szobás erkélyes mértfûtéses lakás	7900000	1	2	lakás	51
+2007.04.30	Egyetem Sgt. / 51 m2, 1,5 szoba + étkezõ, tégla-gázfûtés, felújított, francia erkély	12200000	3	2	lakás	51
+2007.04.06	Kassai u. / 52 m2 1,5 szoba + étkezõ, egyedi gázfûtésû  felújított lakás	11500000	2	4	lakás	52
+2007.05.09	Vág u. / fsz-i 2 szoba 53 m2 felújitandó, belsõ zárt udvar-os lakás, erkély.	12900000	2	2	lakás	53
+2007.02.20	Honvédtemetõ u. / újépítésû, 54 m2-es, 2 szoba + étkezõ, központi gáz, parkoló, erkély	16800000	1	2	lakás	54
+2007.04.12	Szigligeti u. / 54 m2-es, 2 szoba, garázs, loggia, felújított, tégla-gáz fûtésû lakás	14700000	2	3	lakás	54
+2007.05.14	Böszörményi u. / 54 m2 távfûtés felújított, 2 szobás lakás.	12100000	2	1	lakás	54
+2007.05.06	Poroszlay u. / 54 m2-es, 2 szoba, felújított, tömbbfûtés, erkélyes lakás 	11800000	3	0	lakás	54
+2007.02.10	Csanak u. / 54 m2-es 2 szobás gázfûtéses jó állapotú lakás garázzsal pincéve, zárt udvarban	15400000	3	3	lakás	54
+2007.04.25	Sínai u. / 55 m2, 1 + 2 szoba	8900000	2	0	lakás	55
+2007.03.21	Nyár u. / fsz-i 56 m2-es 2 szobás felújított lakás, pincével redõnyös ablakokkal eladó	10500000	3	3	lakás	56
+2007.02.07	Füredi u. / 60 m2, 2 + 1 szoba, erkély, felújítandó	8300000	3	1	lakás	60
+2007.02.16	Kassai u. / fszt-i. 60 m2 2 szoba + étkezõ konyha konvektoros felújított lakás pincerekesz	11700000	1	1	lakás	60
+2007.05.06	Kossuth u. / 2. emeleti 60 m2 2,5 szoba + étkezõ gázfûtéses jó állapotú, zártudvaros lakás, kocsibeállási lehetõséggel 	14500000	3	4	lakás	60
+2007.03.19	Egressy Béni tér / fsz.-i 60 m2-es, 1 + 2 szobás, felújított lakás 60 m2 elõkerttel eladó 	14400000	1	3	lakás	60
+2007.04.17	Füredi u. / 62 m2, 2 + 1 szobás, erkélyes felújítandó	7700000	1	1	lakás	62
+2007.04.13	Monti E. u. / 63 m2, 1 + 3 szobás, szép lakás, csere érdekli	13500000	1	1	lakás	63
+2007.04.03	Kürtös u. / 1. emeleti 63 m2 2 + 1 szobás gázfûtéses szép lakás társasházi zárt udvaros. Kímával garázzsal, erkéllyel	23300000	2	0	lakás	63
+2007.02.28	Lehel u.  / 1. emeleti 65 m2-es 2,5 szobás távfûtéses átlagos állapotú lakás	10700000	3	4	lakás	65
+2007.04.01	Szoboszlói u.  / 68 m2 1 + 2 sz. konvektoros, felújított, erkélyes, tárolóval	11200000	3	1	lakás	68
+2007.05.06	Poroszlay u. / fsz.-i, 68 m2-es, 2,5 szoba, felújított, tömbbfûtés, erkélyes, zártudvaros lakás	14900000	3	2	lakás	68
+2007.05.13	Bajcsy Zs út / 70 m2-es 2 szoba gázfûtéses, galériás szép lakás, kocsibeállás	11200000	2	2	lakás	70
+2007.03.30	Péterfia u. / 71 m2-es, 2 szobás, konvektoros jó állapotú járólapos, parkettás lakás 30 m2 pincével eladó	16200000	2	2	lakás	71
+2007.03.04	Laktanya u. / 72 m2-es, 1 + 2 szobás szép állapotú, klímás, amerikai konyhás, garázsos elsõ emeleti lakás eladó	18200000	1	2	lakás	72
+2007.04.23	Domonkos Lajos u. / 73 m2 3 + 1 sz. Teljesen felújított, klíma, erkély elõtetõvel, pincerekesz 	11900000	2	3	lakás	73
+2007.05.13	Kéky L. u. / 73 m2 2 + 1 szoba,  étkezõkonyha, központi gáz, felújított lakás	15100000	2	1	lakás	73
+2007.02.10	Ötvenhatosok tere / 1 emeleti, 78 m2-es távfûtéses lakás pincével erkéllyel	13400000	3	2	lakás	78
+2007.05.09	Hatvani István u. / 80 m2 3 szoba + étkezõkonyha, központi gáz, felújítandó pince tároló, garázssal együtt eladó	22200000	2	2	lakás	80
+2007.03.17	Piac u. / 80 m2-es, 2 szoba, gardrób, étkezõ, polgári felújítot gázfûtésest lakás kocsibeállással eladó.	18700000	1	2	lakás	80
+2007.04.05	Bornemissza u. / 100/87 m2,  3 szoba + nappali, étkezõ, konyha, 2 fürdõszoba, gázközponti, szép erkélyes lakás eladó	20300000	1	3	lakás	87
+2007.02.17	Szombathi Istvan u. / 70/90 m2 2 + 2 szoba, tetõtéri felújított	12700000	3	0	lakás	90
+2007.02.22	Diófa u. / 2.emeleti 92 m2, 2 + 3 szoba, tégla-gázfûtéses, belsõ zárt udvaros lakás, garázs, erkély	23800000	1	3	lakás	92
+2007.04.13	Csapó u. / 95 m2, 2 + 2 szoba, tégla-gáz, 2 erkély, szép állapot (garázs 2,2M-ért)	20200000	1	4	lakás	95
+2007.03.18	Lóskúti u. / 106 m2 3 szoba + nappali + étkezõ, gáz-központi, klímás, 2éves + 18 m2 garázs fûtött.	27900000	3	3	lakás	106
+2007.04.12	Piac u. / 111 m2-es, 4 szoba, tégla-mért fûtés, polgári lakás	24000000	1	3	lakás	111
+2007.02.28	Barta Boldizsár u. / 140 m2-es 2 szintes 3 lakásos sorházi középsõ, 4 szobás, 2 fürdõszobás, nappalis, garázzsal terasszal, klímával 	32700000	1	4	lakás	140
+2007.02.28	Acsádi u. / 195 m2 3lakás 3 + 2szoba, garázs, pince, központi gáz, nagy kandalló, szép állapot, vállalkozásra alkalmas 630nö telek	49900000	3	0	lakás	195
+2007.04.05	Báthory u. / 200 m2 + 100 m2 szuterén, 2 lakásos ház, emeleten erkély 2 + 1 + nappali + étkezõkonyha, fsz. 3 szoba, nappali 3 garázs, tárolók, mûhely, 750 m2 telek	38000000	2	3	lakás	200
+2007.03.29	Sínai u. / 1,5 szoba, felújított	6700000	1	0	lakás	
+2007.02.05	Senyei u / fsz-i újépítés amerikai konyhás lakás, közös terasz, parkosított udvar	10000000	3	3	lakás	
+2007.02.16	Józsa és Debrecen között lévõ 735 m2 10,5m széles 76 m hosszú telek, 40 m2-es ház villany vezetékes víz van, gázcsonk 	14900000	4	1	telek	735
+2007.03.01	Szepesi u. / 300 négyszögöl telek bontandó házzal eladó. Víz villany van, gáz az aszfaltos ucában	14900000	2	3	telek	1078
+2007.03.02	Böszörményi u. / 2000 m2 összközmûves telek 80 m2-es ház parkosított udvarral. TELEKKÉNT két utcára nyíló	79800000	1	3	telek	2000
+2007.05.08	Diószegi út / 6001 m2 telek (építési telek tervezett 180 m2-es 3 szoba + nappali + étkezõ házzal) víz a telken, villany gáza telek melett	15400000	1	3	telek	6001

@@ -1,0 +1,5 @@
+Iroda_azon	Megnevezes	Postacim
+1	Mindenkilak	Debrecen, Piac u. 1.
+2	Szépházak	Debrecen, Egyetem sgt. 6.
+3	Lak-Iroda	Nyíregyháza, Ligeti utca 5/A
+4	Otthon Közvetítõ	Hajdúhadház, Petõfi S. u. 26.
